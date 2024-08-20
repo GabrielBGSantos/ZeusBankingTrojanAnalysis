@@ -6,9 +6,13 @@ The ZeusBanking Trojan Analysis project aimed to establish a controlled environm
 Skills Learned
 
 Advanced understanding of how a Malware works.
+
 Proficiency in analyzing and interpreting a Malware.
+
 Ability to use detection and analysis tools.
+
 Enhanced knowledge of security vulnerabilities.
+
 Development of critical thinking and problem-solving skills in cybersecurity.
 
 Tools Used
