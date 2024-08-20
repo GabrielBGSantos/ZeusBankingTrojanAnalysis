@@ -26,6 +26,7 @@ Ref 2: Export domain reported by PeStudio.
 ![export domain reported by PeStudio](https://github.com/user-attachments/assets/5166fd1d-f53e-4853-a748-6f49b70fa2ed)
 
 Ref 3: Raw and virtual size of the archive.
+
 ![Raw size and virtual size almost the same, probably the file isn’t packed](https://github.com/user-attachments/assets/ac8469b1-0f63-41aa-9b42-0b586aba4c84)
 
 Ref 4: CAPA output.
