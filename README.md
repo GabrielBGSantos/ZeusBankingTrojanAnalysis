@@ -1,30 +1,30 @@
-*ZeusBanking Trojan Analysis*
+#ZeusBanking Trojan Analysis
 
-*Objective*
+##Objective
 
 The ZeusBanking Trojan Analysis project aimed to establish a controlled environment to understand how malware works, how to detect it, and how to handle it. In this project, I used the ZeusBanking malware as a basis to achieve these objectives.
 
-*Skills Learned*
+##Skills Learned
 
-Advanced understanding of how a Malware works.
+- Advanced understanding of how a Malware works.
 
-Proficiency in analyzing and interpreting a Malware.
+- Proficiency in analyzing and interpreting a Malware.
 
-Ability to use detection and analysis tools.
+- Ability to use detection and analysis tools.
 
-Enhanced knowledge of security vulnerabilities.
+- Enhanced knowledge of security vulnerabilities.
 
-Development of critical thinking and problem-solving skills in cybersecurity.
+- Development of critical thinking and problem-solving skills in cybersecurity.
 
-*Tools Used*
+##Tools Used
 
-REMnux as Malware analysis toolkit.
+- REMnux as Malware analysis toolkit.
 
-FlareVM as controlled enviroment.
+- FlareVM as controlled enviroment.
 
-Analysis and detection tools such as PeStudio, CAPA, Cutter, Procmon.
+- Analysis and detection tools such as PeStudio, CAPA, Cutter, Procmon.
 
-*Steps*
+##Steps
 
 Ref 1: VirusTotal output to the .exe archive
 ![VirusTotal output to the  exe archive](https://github.com/user-attachments/assets/3f26ef0b-d898-44ed-ba83-70728c7151cf)
